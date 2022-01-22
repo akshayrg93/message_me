@@ -31,3 +31,18 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+/public/packs
+/public/packs-test
+/node_modules
+/yarn-error.log
+yarn-debug.log*
+.yarn-integrity
+
+.browserslistrc
+babel.config.js
+bin/*
+package-lock.json
+postcss.config.js
+yarn.lock
+package.json
