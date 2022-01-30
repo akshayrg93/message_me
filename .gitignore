@@ -46,3 +46,4 @@ package-lock.json
 postcss.config.js
 yarn.lock
 package.json
+Gemfile.lock
